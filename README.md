@@ -1,1 +1,2 @@
 # friendfinder2
+was not able to get it to connect to heruku yet i worked on it using the live browser option on vs code.  The HTML is done for both the front end of the website however i did have a hard time connecting to a server.  
